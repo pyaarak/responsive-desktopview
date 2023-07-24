@@ -1,0 +1,18 @@
+{
+  "name": "resposive-desktopview",
+  "version": "1.0.1",
+  "description": "This package gives the whole page in auto responsive for all Desktop and Monitors. Even you can use this for admin panels",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "responsive"
+  },
+  "keywords": [
+    "Responsive"
+  ],
+  "author": "Aakash",
+  "license": "ISC"
+}
